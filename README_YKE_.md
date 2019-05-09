@@ -1,4 +1,4 @@
-# Dimitri deleted commented lines
+# Dimitri deleted commented lines :-)
 
 
 I commented out how the merge conlict between two versions of the file look. 
