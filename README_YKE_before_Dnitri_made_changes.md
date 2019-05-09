@@ -6,6 +6,8 @@ Yana made a change that Dmitri will see
 # >>>>>>> d02ca0e977fb7fc3d2598f4215998f3c9ad69be9
 # Blah-blah-blah
 
+
+
 I commented out how the merge conlict between two versions of the file look. 
 
 Let's add some more text here
